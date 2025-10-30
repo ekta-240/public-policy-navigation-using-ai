@@ -104,7 +104,7 @@ conda run -p C:\Users\<username>\anaconda3 --no-capture-output python -m uvicorn
 
 **Alternative port (8000):**
 ```bash
-uvicorn app:app --reload --port 8000
+uvicorn app:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ### 5. Access the Application
