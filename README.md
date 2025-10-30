@@ -139,7 +139,7 @@ This is an educational project for demonstrating NLP and web application develop
 - Uses scikit-learn for NLP and machine learning
 - FastAPI framework for high-performance web services
 
----
-**Repository**: [public-policy-navigation-using-ai](https://github.com/ekta-240/public-policy-navigation-using-ai)  
-**Status**: ✅ Active Development  
-**Last Updated**: October 2025
+
+<img width="1920" height="1080" alt="Screenshot (2980)" src="https://github.com/user-attachments/assets/adcda552-5f60-437e-aa90-d925c09197e4" />
+<img width="1920" height="1080" alt="Screenshot (2982)" src="https://github.com/user-attachments/assets/be199383-aefc-4163-8c8d-d9b732ad641f" />
+
